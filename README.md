@@ -1,1 +1,51 @@
-# Gesture_To_Speech__Glove
+# Sign Language to Speech Glove 🤖🧤🔊
+
+This Arduino-based project converts sign language gestures into speech using flex sensors and a DFPlayer Mini audio module. It is designed to assist individuals with hearing or speech impairments by providing an accessible, offline communication tool.
+
+## 👨‍💻 Project Description
+
+- **Microcontroller**: Arduino (Uno/Nano)
+- **Sensors**: 5x Flex Sensors (connected to A0–A4)
+- **Audio Output**: DFPlayer Mini with microSD card and speaker
+- **Communication**: Offline, no internet required
+- **Libraries Used**:
+  - `SoftwareSerial.h`
+  - `DFRobotDFPlayerMini.h`
+
+Each finger is mapped to a specific audio track that plays when the finger is bent beyond a calibrated threshold.
+
+## 🛠️ Features
+
+- Calibrates baseline values for flex sensors at startup
+- Detects bending of each finger individually
+- Plays pre-recorded audio clips corresponding to each gesture
+- Ignores further input while audio is playing
+- Displays readings and threshold status in Serial Monitor
+
+## 📁 Files
+
+- `sign_language_glove.ino` — Main Arduino sketch
+- `README.md` — Project description
+- (Optional) Audio files (`001.mp3`, `002.mp3`, ...) on SD card
+
+## 🙋 Contributors
+
+- 👨‍💻 [Ahad Bhati](https://github.com/yourusername) — Core Developer & Designer
+
+If someone helped you in this project, mention them like this:
+
+- 🙌 [Satyveer Chauhan] — Helped with sensor calibration and testing
+
+## 📷 Preview (Optional)
+
+Add an image or diagram of your glove circuit setup here!
+
+## 📝 License
+
+MIT License. Feel free to use, modify, and share.
+
+---
+
+### 📣 Note
+
+Make sure your SD card contains audio files named in `001.mp3`, `002.mp3`, ..., `005.mp3` format corresponding to each finger.
