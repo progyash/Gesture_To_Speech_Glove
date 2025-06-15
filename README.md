@@ -30,11 +30,11 @@ Each finger is mapped to a specific audio track that plays when the finger is be
 
 ## 🙋 Contributors
 
-- 👨‍💻 [Ahad Bhati] — Core Developer & Designer
+- 👨‍💻 [Yash Chaudhari](https://github.com/progyash) — Core Developer & Hardware Integration
 
-If someone helped you in this project, mention them like this:
+- 🔧 [Satyveer Chauhan](https://github.com/satyveer2005) — Flex Sensor Calibration & Testing
 
-- 🙌 [Satyveer Chauhan](https://github.com/satyveer2005) — Helped with sensor calibration and testing
+- 🎨 Ahad Bhati — Audio Design & Documentation
 
 ## 📷 Preview
 
