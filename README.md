@@ -36,9 +36,9 @@ If someone helped you in this project, mention them like this:
 
 - 🙌 [Satyveer Chauhan](https://github.com/satyveer2005) — Helped with sensor calibration and testing
 
-## 📷 Preview (Optional)
+## 📷 Preview
 
-Add an image or diagram of your glove circuit setup here!
+https://github.com/user-attachments/assets/48899d36-0059-4ba8-b01e-8baca9b4ccf3
 
 ## 📝 License
 
