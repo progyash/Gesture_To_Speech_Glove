@@ -34,7 +34,7 @@ Each finger is mapped to a specific audio track that plays when the finger is be
 
 - 🔧 [Satyveer Chauhan](https://github.com/satyveer2005) — Flex Sensor Calibration & Testing
 
-- 🎨 Ahad Bhati — Audio Design & Documentation
+- 🎨 [Ahad Bhati](https://github.com/AhadBhati1) — Audio Design & Documentation
 
 ## 📷 Preview
 
